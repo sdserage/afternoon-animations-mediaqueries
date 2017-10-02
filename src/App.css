@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400');
+/* https://devmtn.slack.com/archives/C6N0Q8RA5/p1506964192000639 */
+/* https://blackrockdigital.github.io/startbootstrap-agency/ */
+.navbar{
+  background-color: black;
+}
+
+.home{
+
+}
+
+.services{
+
+}
+
+.about{
+
+}
+
+.team{
+
+}
+
+.contact{
+
+}
+
+.footer{
+
+}
+
+/* Desktop View */
+@@media (min-width: 425px) {
+
+}
